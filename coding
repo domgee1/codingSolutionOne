@@ -1,0 +1,6 @@
+function triArea(base, height) {
+var area = (base * height) / 2
+var base = 7
+var height = 4
+return area
+} 
